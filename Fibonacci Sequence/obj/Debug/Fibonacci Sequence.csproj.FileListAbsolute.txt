@@ -1,0 +1,7 @@
+C:\Users\ismael44131\source\repos\Fibonacci Sequence\bin\Debug\Fibonacci Sequence.exe.config
+C:\Users\ismael44131\source\repos\Fibonacci Sequence\bin\Debug\Fibonacci Sequence.exe
+C:\Users\ismael44131\source\repos\Fibonacci Sequence\bin\Debug\Fibonacci Sequence.pdb
+C:\Users\ismael44131\source\repos\Fibonacci Sequence\obj\Debug\Fibonacci Sequence.csprojAssemblyReference.cache
+C:\Users\ismael44131\source\repos\Fibonacci Sequence\obj\Debug\Fibonacci Sequence.csproj.CoreCompileInputs.cache
+C:\Users\ismael44131\source\repos\Fibonacci Sequence\obj\Debug\Fibonacci Sequence.exe
+C:\Users\ismael44131\source\repos\Fibonacci Sequence\obj\Debug\Fibonacci Sequence.pdb
